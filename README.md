@@ -10,3 +10,4 @@ My hook runs before Antigravity uses the terminal. It checks the command and blo
 
 ## Permissions
 Allow lets an action go ahead. Ask pauses for my approval. Deny blocks the action. When rules conflict, Antigravity checks Deny first, then Ask, then Allow.
+This project practices AI harness configuration and release validation.
